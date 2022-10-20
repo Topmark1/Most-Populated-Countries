@@ -1,0 +1,9 @@
+
+body{font-family:candara}
+.top{width:110%;height:110px;background-color:rgb(200,200,200);border-style:solid;border-width:2px;border-color:rgb(150,150,150);margin:-7px -10px}
+h1{color:rgb(231,120,23);margin:6px 0px;font-size:40px;text-align:center}
+p{margin:auto;font-size:20px;text-align:center}
+.popu{background-color:rgb(231,120,23);margin:17px 5px 0px;width:130px;height:30px;border-style:none}
+.lang{background-color:rgb(231,120,23);margin:17px 0px 0px;width:130px;height:30px;border-style:none}
+.bottom{width:1100px;height:500px;background-color:rgb(200,200,200);border-style:solid;border-width:2px;border-color:rgb(150,150,150);margin:50px -10px}
+.fi{text-align:center;width:100%}
